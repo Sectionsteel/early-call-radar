@@ -1,0 +1,1 @@
+# Add known bad creator wallets per line

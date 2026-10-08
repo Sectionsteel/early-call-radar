@@ -1,0 +1,1 @@
+# Add one trusted early-buyer wallet per line
